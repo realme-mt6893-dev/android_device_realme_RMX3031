@@ -1,3 +1,6 @@
+# Camera
+vendor.camera.aux.packagelist=com.android.camera,org.lineageos.aperture,org.lineageos.aperture.dev
+
 # Brand
 Build.BRAND=MTK
 
