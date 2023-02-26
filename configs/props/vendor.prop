@@ -158,6 +158,7 @@ ro.lmk.psi_complete_stall_ms_dup=70
 ro.lmk.kill_timeout_ms=100
 
 # Media
+ro.vendor.mtk_hdr_video_support=1
 ro.vendor.jpeg_decode_sw_opt=2
 ro.vendor.mtk_video_hevc_enc_support=1
 vendor.mtk.vdec.waitkeyframeforplay=15

@@ -2198,6 +2198,7 @@ vendor/lib/vndk/libstagefright_foundation.so
 vendor/lib/AVCSecureVdecCA.so
 vendor/lib/VP9SecureVdecCA.so
 vendor/lib/libAVCSecureVencCA.so
+vendor/lib/HEVCSecureVdecCA.so
 vendor/lib/libHEVCdec_sa.ca7.android.so
 vendor/lib/libJpgEncPipe.so
 vendor/lib/libainrcore.so
@@ -2248,6 +2249,7 @@ vendor/lib/libvpud_vcodec.so
 -vendor/lib64/libcodec2_hidl@1.0.so:vendor/lib64/libcodec2_hidl-mtk@1.0.so
 -vendor/lib64/libcodec2_vndk.so:vendor/lib64/libcodec2_vndk-mtk.so
 vendor/lib64/AVCSecureVdecCA.so
+vendor/lib64/HEVCSecureVdecCA.so
 vendor/lib64/VP9SecureVdecCA.so
 vendor/lib64/libAVCSecureVencCA.so
 vendor/lib64/libJpgEncPipe.so
