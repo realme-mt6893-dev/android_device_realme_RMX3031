@@ -1815,15 +1815,17 @@ vendor/firmware/novatek_ts_fw_144.bin
 vendor/firmware/novatek_ts_fw_jdi.bin
 vendor/firmware/novatek_ts_fw_tm.bin
 vendor/firmware/remoteproc_scp
+vendor/firmware/soc3_0_ram_wifi_1a_1_hdr.bin
+vendor/firmware/valhall-1691526.wa
+
+# Firmware (Bluetooth) from - realme/RMX3031/RMX3031L1:13/TP1A.220905.001/R.d88f0f_b8820:user/release-keys 
 vendor/firmware/soc3_0_patch_wmmcu_1a_1_hdr.bin
 vendor/firmware/soc3_0_ram_bt_1_1_hdr.bin
 vendor/firmware/soc3_0_ram_bt_1a_1_hdr.bin
 vendor/firmware/soc3_0_ram_mcu_1_1_hdr.bin
 vendor/firmware/soc3_0_ram_mcu_1a_1_hdr.bin
 vendor/firmware/soc3_0_ram_mcu_e1_hdr.bin
-vendor/firmware/soc3_0_ram_wifi_1a_1_hdr.bin
 vendor/firmware/soc3_0_ram_wmmcu_1a_1_hdr.bin
-vendor/firmware/valhall-1691526.wa
 
 # Firmware ( Haptics )
 odm/firmware/aw8697_haptic.bin
