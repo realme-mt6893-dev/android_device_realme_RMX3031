@@ -2408,6 +2408,17 @@ vendor/lib64/libneuron_wrapper.so
 vendor/lib64/libneuropilot_hal_utils.so
 vendor/lib64/libtflite_mtk.so
 
+# NFC
+odm/etc/init/init.SN100x.nfc.rc
+odm/etc/init/init.SN100x.se.rc
+odm/etc/nfc/libnfc-nci.conf_20615:vendor/etc/libnfc-nxp.conf
+odm/etc/libnfc-nxp-pnscr.conf
+odm/lib/libpn553_fw.so
+odm/lib/libpn557_fw.so
+odm/lib/libpnscr2.so
+odm/lib/libsn100u_fw.so
+odm/lib64/libpnscr2.so
+
 # Nvram
 vendor/bin/hw/vendor.mediatek.hardware.nvram@1.1-service
 vendor/bin/fuelgauged_nvram
