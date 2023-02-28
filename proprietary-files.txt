@@ -2028,7 +2028,6 @@ vendor/etc/VideoLog_dynamic.xml
 vendor/etc/slp_conf
 vendor/etc/smsdbvisitor.xml
 vendor/etc/special_pws_channel.xml
-vendor/etc/task_profiles.json
 vendor/etc/vendor-apns-conf.xml
 vendor/etc/virtual-spn-conf-by-efgid1.xml
 vendor/etc/virtual-spn-conf-by-efpnn.xml
