@@ -1736,10 +1736,6 @@ vendor/lib64/vendor.oplus.hardware.commondcs@1.0.so
 # Firmware
 odm/firmware/fastchg/20615/charging_thermal_config_default.txt
 odm/firmware/fastchg/charging_thermal_config_default.txt
-odm/firmware/tfa98xx/tfa98xx_vibrator_remain_12_RTP_56_226Hz.bin
-odm/firmware/tfa98xx/tfa98xx_vibrator_remain_12_RTP_56_230Hz.bin
-odm/firmware/tfa98xx/tfa98xx_vibrator_remain_12_RTP_56_234Hz.bin
-odm/firmware/tfa98xx/tfa98xx_vibrator_remain_12_RTP_56_237Hz.bin
 odm/firmware/tp/20615/FW_FT3518_SAMSUNG.img
 odm/firmware/tp/20615/FW_FT3518_SAMSUNG_FAE.img
 odm/firmware/tp/20615/LIMIT_FT3518_SAMSUNG.img
