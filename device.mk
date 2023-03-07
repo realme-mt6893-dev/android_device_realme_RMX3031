@@ -334,6 +334,9 @@ PRODUCT_PACKAGES += \
     ueventd.oplus.rc \
     ueventd.mtk.rc
 
+PRODUCT_PACKAGES += \
+    init.recovery.mt6893.rc
+
 # Rro
 PRODUCT_PACKAGES += \
     TetheringConfigOverlay \

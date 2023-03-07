@@ -154,6 +154,9 @@ TARGET_USES_MKE2FS := true
 # Ril
 ENABLE_VENDOR_RIL_SERVICE := true
 
+# Recovery
+TARGET_USES_AOSP_RECOVERY := true
+
 # Releasetools
 TARGET_RELEASETOOLS_EXTENSIONS := $(DEVICE_PATH)/releasetools
 
