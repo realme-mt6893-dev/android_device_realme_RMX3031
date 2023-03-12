@@ -420,4 +420,7 @@
     <!-- Whether the device enable the non-standalone (NSA) mode of 5G NR.-->
     <bool name="config_telephony5gNonStandalone">true</bool>
 
+    <!-- Use framework FOD dimming instead of kernel dimming -->
+    <bool name="config_udfpsFrameworkDimming">true</bool>
+
 </resources>

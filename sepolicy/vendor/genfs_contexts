@@ -1,0 +1,3 @@
+genfscon sysfs /sys/devices/platform/11cb0000.i2c3/i2c-3/3-005a/leds/vibrator/duration  u:object_r:sysfs_vibrator:s0
+
+genfscon proc  /fp_id u:object_r:proc_fingerprint:s0
